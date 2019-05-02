@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">SharedPreferenceSample</string>
     <string name="save">保存</string>
+    <string name="notStored">未登録</string>
 </resources>
